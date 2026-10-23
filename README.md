@@ -6,6 +6,15 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-FFCA28?logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-3.8-0175C2?logo=dart&logoColor=white)
 
+## Screenshots
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="screenshots/role-selection.png" width="220" alt="Role selection" /> | <img src="screenshots/admin-dashboard.png" width="220" alt="Admin dashboard" /> | <img src="screenshots/teacher-dashboard.png" width="220" alt="Teacher dashboard" /> |
+| **Role Selection** | **Admin Dashboard** | **Teacher Dashboard** |
+| <img src="screenshots/student-profile.png" width="220" alt="Student profile" /> | <img src="screenshots/attendance-history.png" width="220" alt="Attendance history" /> | <img src="screenshots/live-class-whiteboard.png" width="220" alt="Live class with whiteboard" /> |
+| **Student Profile & Attendance** | **Attendance History** | **Live Class + Whiteboard** |
+
 ---
 
 ## Features
