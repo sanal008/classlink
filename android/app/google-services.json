@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851615034738",
+    "project_id": "claink-3ac31",
+    "storage_bucket": "claink-3ac31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851615034738:android:68315565b380bf4df781eb",
+        "android_client_info": {
+          "package_name": "com.example.classlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEKWqLB2_e-QpXa1JQcizyYRp06U82ouE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for ClassLink email sending",
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.10.0",
+    "firebase-functions": "^4.3.0",
+    "@sendgrid/mail": "^7.9.0"
+  },
+  "private": true,
+  "scripts": {
+    "deploy": "firebase deploy --only functions",
+    "lint": "eslint ."
+  }
+}
